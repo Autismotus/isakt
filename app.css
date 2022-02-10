@@ -1,0 +1,13 @@
+body {
+  background-color: rgb(57, 57, 177);
+  color: white;
+}
+
+#output {
+  color: rgba(255, 166, 0, 0.74);
+  font: courier, monospace;
+}
+#output2 {
+  color: rgba(255, 166, 0, 0.74);
+  font: courier, monospace;
+}
